@@ -1,10 +1,9 @@
 <?php
 /**
  * Created by JetBrains PhpStorm.
- * User: Пользователь
+ * User: AlexSoftInc
  * Date: 18.08.15
  * Time: 15:39
- * To change this template use File | Settings | File Templates.
  */
 class Cryptography
 {

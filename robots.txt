@@ -1,0 +1,6 @@
+User-agent: Yandex
+Host: http://xn--------3vebabrj6a1ak3a9aidtywmeiqz2b2df6lil5e.xn--p1ai/
+Disallow: /feed
+Disallow: /news/views/music/player/niftyplayer.swf?file=music/1.mp3&as=1
+Disallow: /rooms/index/tematic/music/player/music/player/link the rss news
+Sitemap: http://xn--------3vebabrj6a1ak3a9aidtywmeiqz2b2df6lil5e.xn--p1ai/sitemap.xml

@@ -500,5 +500,5 @@ CREATE TABLE `user_admin` (
 
 -- ----------------------------
 
-INSERT INTO `user_admin` VALUES ('1', 'phpcoder', '5f4dcc3b5aa765d61d8327deb882cf99', 'admin');
+INSERT INTO `user_admin` VALUES ('1', 'phpcoder', '5f4dcc3b5aa765d61d8327deb882cf99', 'admins');
 
